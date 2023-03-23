@@ -1,2 +1,3 @@
-# puddle
-Online Marketplace Application built with Django
+# Puddle - Online Marketplace
+
+This is a full fledged Online Marketplace Clone With Django
